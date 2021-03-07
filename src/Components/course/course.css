@@ -1,0 +1,40 @@
+.course img{
+    height: 300px;
+    width: 670px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.course{
+    margin: auto 20px auto auto;
+    width: fit-content;
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.course:hover {
+    box-shadow: 0 0 15px rgba(33, 33, 33, 0.308)
+  }
+.course ul {
+    list-style: none;
+  }
+  
+.course ul li:before {
+    content: '✓ ';
+  }
+
+.course button{
+    margin:0 41%;
+    padding: 7px 12px;
+    font-size: 20px;
+    background: teal;
+    color: white;
+    cursor: pointer;
+    outline: 0;
+    border-radius: 0.25rem;
+    border-color: transparent;
+}
+
+  button:hover{
+    background: rosybrown;
+  }
