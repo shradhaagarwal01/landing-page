@@ -28,7 +28,7 @@
 .section-center {
   margin: 0 auto;
   margin-top: 4rem;
-  width: 80vw;
+  width: auto;
   /* have to have a height */
   height: 450px;
   max-width: 800px;
