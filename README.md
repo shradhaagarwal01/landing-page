@@ -1,3 +1,8 @@
+# Steps to run this app
+1. Download or clone this repo.
+2. Install all the required packages with `npm install`
+3. `npm start` - It'll start the react app in the default browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
