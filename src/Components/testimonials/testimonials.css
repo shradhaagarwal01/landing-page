@@ -93,17 +93,13 @@ article h4 {
 .next {
   right: 0;
 }
-@media (min-width: 800px) {
-  .text {
-    max-width: 45em;
-  }
-  .prev,
+
+.prev,
   .next {
     width: 2rem;
     height: 2rem;
     font-size: 1.5rem;
   }
-}
 article {
   position: absolute;
   top: 0;
