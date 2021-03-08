@@ -60,6 +60,8 @@ article h4 {
   margin: 2rem 0;
   line-height: 2;
   color: teal;
+  text-align: center;
+  padding-left: 35px;
 }
 .icon {
   font-size: 3rem;
