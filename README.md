@@ -1,3 +1,6 @@
+## Landing Page
+This is a basic dashobard page of a learning management system, built using HTML and CSS.
+
 # Steps to run this app
 1. Download or clone this repo.
 2. Install all the required packages with `npm install`
